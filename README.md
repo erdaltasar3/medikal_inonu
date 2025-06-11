@@ -58,10 +58,9 @@ Projeleriniz için ekipler oluşturabilir, davetler gönderebilir ve ortak çal�
 
 ## 📷 Platform Görselleri
 
-![Modül Ekleme Sayfası](static/images/module_upload.png)
-![3D Görüntüleme](static/images/3d_viewer.png)
-![2D Görüntü İşleme](static/images/2d_processing.png)
-![Ekip Yönetimi](static/images/team_management.png)
+![Modül Ekleme Sayfası](static/images/1.png)
+![3D Görüntüleme](static/images/2.png)
+![2D Görüntü İşleme](static/images/3.png)
 
 
 ## 📞 İletişim
