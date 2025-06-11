@@ -36,19 +36,6 @@ HealthAI, yapay zeka ve sağlık teknolojilerini birleştiren modern bir platfor
 
  # https://medikal.inonu.edu.tr/
  
-## 📷 Platform Görselleri
-
-![Modül Ekleme Sayfası](static/images/module_upload.png)
-![3D Görüntüleme](static/images/3d_viewer.png)
-![2D Görüntü İşleme](static/images/2d_processing.png)
-![Ekip Yönetimi](static/images/team_management.png)
-
-
-## 📞 İletişim
-
-Sorularınız veya önerileriniz için: [erdaltasar24@gmail.com](mailto:erdaltasar24@gmail.com)
-
----
 
 ## 🧪 Modüller ve Kullanım Alanları
 
@@ -67,5 +54,20 @@ Diş röntgenleri ve diğer tıbbi görüntüler üzerinde lezyon tespiti yapabi
 ### 4️⃣ Ekip İşbirliği
 
 Projeleriniz için ekipler oluşturabilir, davetler gönderebilir ve ortak çalışma alanları oluşturabilirsiniz. Her ekip için benzersiz bir Grup ID'si oluşturulur.
+
+
+## 📷 Platform Görselleri
+
+![Modül Ekleme Sayfası](static/images/module_upload.png)
+![3D Görüntüleme](static/images/3d_viewer.png)
+![2D Görüntü İşleme](static/images/2d_processing.png)
+![Ekip Yönetimi](static/images/team_management.png)
+
+
+## 📞 İletişim
+
+Sorularınız veya önerileriniz için: [erdaltasar24@gmail.com](mailto:erdaltasar24@gmail.com)
+
+---
 
 ⭐ Bu projeyi beğendiyseniz, yıldız vermeyi unutmayın! ⭐
