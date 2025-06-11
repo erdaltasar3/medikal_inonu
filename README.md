@@ -34,34 +34,8 @@ HealthAI, yapay zeka ve sağlık teknolojilerini birleştiren modern bir platfor
 
 ## 🚀 Kurulum
 
-1. Repoyu klonlayın:
-   ```bash
-   git clone https://github.com/username/HealthAI.git
-   cd HealthAI
-   ```
-
-2. Bağımlılıkları yükleyin:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Veritabanını kurun:
-   ```bash
-   python manage.py migrate
-   ```
-
-4. Geliştirme sunucusunu başlatın:
-   ```bash
-   python manage.py runserver
-   ```
-
-5. RabbitMQ ve Celery'i başlatın:
-   ```bash
-   celery -A HealthAI worker --loglevel=info
-   ```
-
-6. Tarayıcınızda [http://localhost:8000](http://localhost:8000) adresine gidin
-
+ # https://medikal.inonu.edu.tr/
+ 
 ## 📷 Platform Görselleri
 
 ![Modül Ekleme Sayfası](static/images/module_upload.png)
@@ -69,20 +43,6 @@ HealthAI, yapay zeka ve sağlık teknolojilerini birleştiren modern bir platfor
 ![2D Görüntü İşleme](static/images/2d_processing.png)
 ![Ekip Yönetimi](static/images/team_management.png)
 
-## 🗂️ Proje Yapısı
-
-- **core:** Temel sistem bileşenleri, kullanıcı yönetimi
-- **modules:** Yapay zeka modülleri ve işlevleri
-- **imaging:** 2D ve 3D görüntüleme araçları
-- **teams:** Ekip yönetimi ve davet sistemi
-- **admin_panel:** Yetkili kontrol paneli
-- **static:** CSS, JavaScript, resimler
-- **templates:** HTML şablonları
-- **media:** Kullanıcı yüklenen dosyalar ve modeller
-
-## 📝 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## 📞 İletişim
 
